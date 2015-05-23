@@ -1,0 +1,2 @@
+5.196.xxx.xxx = Failover Ip
+5.xxx.xx.254 = Host Ip mit 254 am ende
