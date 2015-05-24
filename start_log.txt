@@ -1,0 +1,553 @@
+Real Server
+Log OffAsyncSQL: connected to localhost (reconnect 1)
+Success PLAYER
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+Success ACCOUNT
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+Success COMMON
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+Success HOTBACKUP
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+ Die Datenbank wurde gestartet.
+ Startet den Loginserver ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: auth_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AUTH_SERVER: I am the master
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+MasterAuth 8 Der Loginserver wurde gestartet[0m
+ Starte game99_1 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel99_core1_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+PLAYER_MAX_LEVEL: 105
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ game99 Core 1 wurde gestartet.
+ Starte game99_2 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel99_core2_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+PLAYER_MAX_LEVEL: 105
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ game99 Core 2 wurde gestartet.
+ Starte game99_3 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel99_core3_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+PLAYER_MAX_LEVEL: 105
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ game99 Core 3 wurde gestartet.
+ Starte game99_4 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel99_core4_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+PLAYER_MAX_LEVEL: 105
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ game99 Core 4 wurde gestartet.
+ Starte game99 Core 5 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel99_core5_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+LogSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+MAP ALLOW 113
+PLAYER_MAX_LEVEL: 105
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ game99 Core 5 wurde gestartet.
+ Startet Channel 1 Core 1 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel1_core1_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+MAP ALLOW 1
+MAP ALLOW 3
+MAP ALLOW 4
+MAP ALLOW 5
+MAP ALLOW 21
+MAP ALLOW 23
+MAP ALLOW 24
+MAP ALLOW 25
+MAP ALLOW 41
+MAP ALLOW 43
+MAP ALLOW 44
+MAP ALLOW 45
+MAP ALLOW 61
+MAP ALLOW 62
+MAP ALLOW 63
+MAP ALLOW 64
+MAP ALLOW 65
+MAP ALLOW 66
+MAP ALLOW 67
+MAP ALLOW 68
+MAP ALLOW 69
+MAP ALLOW 70
+PLAYER_MAX_LEVEL: 105
+-----------------------------------------------
+TEST_SERVER
+-----------------------------------------------
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ Channel 1 Core 1 wurde gestartet.
+ Startet Channel 1 Core 2 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel1_core2_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+MAP ALLOW 71
+MAP ALLOW 72
+MAP ALLOW 73
+MAP ALLOW 74
+MAP ALLOW 75
+MAP ALLOW 77
+MAP ALLOW 78
+MAP ALLOW 81
+MAP ALLOW 90
+MAP ALLOW 97
+MAP ALLOW 100
+MAP ALLOW 103
+MAP ALLOW 104
+MAP ALLOW 105
+MAP ALLOW 107
+MAP ALLOW 108
+MAP ALLOW 109
+MAP ALLOW 110
+PLAYER_MAX_LEVEL: 105
+-----------------------------------------------
+TEST_SERVER
+-----------------------------------------------
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ Channel 1 Core 2 wurde gestartet.
+ Startet Channel 1 Core 3 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel1_core3_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+LogSQL connected
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+MAP ALLOW 111
+MAP ALLOW 112
+MAP ALLOW 113
+MAP ALLOW 114
+MAP ALLOW 118
+MAP ALLOW 119
+MAP ALLOW 120
+MAP ALLOW 121
+MAP ALLOW 122
+MAP ALLOW 123
+MAP ALLOW 124
+MAP ALLOW 125
+MAP ALLOW 126
+MAP ALLOW 127
+MAP ALLOW 128
+PLAYER_MAX_LEVEL: 105
+-----------------------------------------------
+TEST_SERVER
+-----------------------------------------------
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ Channel 1 Core 3 wurde gestartet.
+ Startet Channel 1 Core 4 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel1_core4_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+MAP ALLOW 170
+MAP ALLOW 171
+MAP ALLOW 172
+MAP ALLOW 181
+MAP ALLOW 182
+MAP ALLOW 183
+MAP ALLOW 184
+MAP ALLOW 185
+MAP ALLOW 186
+MAP ALLOW 187
+MAP ALLOW 188
+MAP ALLOW 189
+MAP ALLOW 190
+MAP ALLOW 191
+PLAYER_MAX_LEVEL: 105
+-----------------------------------------------
+TEST_SERVER
+-----------------------------------------------
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+connect: Connection refused
+ Channel 1 Core 4 wurde gestartet.
+ Startet Channel 1 Core 5 ..
+               hh                                    MM    MM TTTTTTT
+  eee  nn nnn  hh        aa aa nn nnn    cccc   eee  MMM  MMM   TTT
+ee   e nnn  nn hhhhhh   aa aaa nnn  nn cc     ee   e MM MM MM   TTT
+eeeee  nn   nn hh   hh aa  aaa nn   nn cc     eeeee  MM    MM   TTT
+ eeeee nn   nn hh   hh  aaa aa nn   nn  ccccc  eeeee MM    MM   TTT
+
+IP 46.105.114.225
+HOSTNAME: channel1_core5_test
+AsyncSQL: connected to localhost (reconnect 1)
+CommonSQL connected
+Setting Locale "france" (Path: locale/france)
+Setting DB to locale latin1
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+AsyncSQL: connected to localhost (reconnect 1)
+PlayerSQL connected
+LogSQL connected
+SKILL_POWER_BY_LEVEL 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+AsyncSQL: connected to localhost (reconnect 1)
+SKILL_POWER_BY_JOB 0 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 1 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 2 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 3 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 4 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 5 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 6 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+SKILL_POWER_BY_JOB 7 0 5 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 50 52 54 56 58 60 63 66 69 72 82 85 88 91 94 98 102 106 110 115 125 125 125 125 125
+MAP ALLOW 193
+MAP ALLOW 194
+MAP ALLOW 195
+MAP ALLOW 196
+MAP ALLOW 197
+MAP ALLOW 205
+MAP ALLOW 206
+MAP ALLOW 207
+MAP ALLOW 208
+MAP ALLOW 209
+MAP ALLOW 210
+PLAYER_MAX_LEVEL: 105
+-----------------------------------------------
+TEST_SERVER
+-----------------------------------------------
+LocaleService locale/france/locale_string.txt
+PUBLIC_IP: 46.105.114.225
+INTERNAL_IP: 0
