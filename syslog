@@ -1,0 +1,73 @@
+SYSERR: May 24 13:46:07.682971 :: pid_init: 
+Start of pid: 3146
+
+SYSERR: May 24 13:46:07.683048 :: Start: TABLE_POSTFIX not configured use default
+May 24 13:46:07.683087 :: connecting to MySQL server (player)
+May 24 13:46:07.683106 :: CREATING DIRECT_SQL
+May 24 13:46:07.683127 :: AsyncSQL: locale euckr
+May 24 13:46:07.690094 :: CREATING MAIN_SQL
+May 24 13:46:07.690127 :: AsyncSQL: locale euckr
+May 24 13:46:07.690232 :: CREATING ASYNC_SQL
+May 24 13:46:07.690313 :: AsyncSQL: locale euckr
+May 24 13:46:07.690373 ::    OK
+May 24 13:46:07.690410 :: connecting to MySQL server (account)
+May 24 13:46:07.690427 :: CREATING DIRECT_SQL
+May 24 13:46:07.690444 :: AsyncSQL: locale euckr
+May 24 13:46:07.690880 :: CREATING MAIN_SQL
+May 24 13:46:07.690901 :: AsyncSQL: locale euckr
+May 24 13:46:07.690944 :: CREATING ASYNC_SQL
+May 24 13:46:07.690963 :: AsyncSQL: locale euckr
+May 24 13:46:07.691000 ::    OK
+May 24 13:46:07.691037 :: connecting to MySQL server (common)
+May 24 13:46:07.691054 :: CREATING DIRECT_SQL
+May 24 13:46:07.691071 :: AsyncSQL: locale euckr
+May 24 13:46:07.691420 :: CREATING MAIN_SQL
+May 24 13:46:07.691462 :: AsyncSQL: locale euckr
+May 24 13:46:07.691516 :: CREATING ASYNC_SQL
+May 24 13:46:07.691535 :: AsyncSQL: locale euckr
+May 24 13:46:07.691591 ::    OK
+May 24 13:46:07.691626 :: connecting to MySQL server (hotbackup)
+May 24 13:46:07.691643 :: CREATING DIRECT_SQL
+May 24 13:46:07.691661 :: AsyncSQL: locale euckr
+May 24 13:46:07.691971 :: CREATING MAIN_SQL
+May 24 13:46:07.691992 :: AsyncSQL: locale euckr
+May 24 13:46:07.692039 :: CREATING ASYNC_SQL
+May 24 13:46:07.692059 :: AsyncSQL: locale euckr
+May 24 13:46:07.692103 ::    OK
+May 24 13:46:07.692170 :: ClientManager initialization.. 
+May 24 13:46:07.692523 :: InitializeLocalization() - LoadLocaleTable(count:13)
+May 24 13:46:07.692547 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE0)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692566 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE1)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692593 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE2)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692620 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE3)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692638 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE4)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692655 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE5)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692671 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE6)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692687 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL_TYPE7)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.692704 :: locale[LOCALE] = france
+May 24 13:46:07.692720 :: Changed g_stLocale euckr to euckr
+May 24 13:46:07.692736 :: SetLocale start
+May 24 13:46:07.692842 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.692942 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693014 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693087 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693182 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693255 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693331 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693394 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693461 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693530 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693596 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693664 :: 	--mysql_set_character_set(latin1)
+May 24 13:46:07.693681 :: End setlocale latin1
+May 24 13:46:07.693700 :: locale[DB_NAME_COLUMN] = locale_name
+May 24 13:46:07.693716 :: locale[UNKNOWN_KEY(SKILL_DAMAGE_BY_LEVEL_UNDER_90)] = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+May 24 13:46:07.693733 :: locale[UNKNOWN_KEY(SKILL_DAMAGE_BY_LEVEL_UNDER_45)] = 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+May 24 13:46:07.693749 :: locale[UNKNOWN_KEY(SKILL_POWER_BY_LEVEL)] = 0 5 6 8 10 12 14 16 18 20 22 24
+May 24 13:46:07.693780 :: GetParam 2000000000
+May 24 13:46:07.693800 :: GetParam 2100000000
+May 24 13:46:07.693816 :: ItemRange From File 2000000000 ~ 2100000000 
+May 24 13:46:07.694251 :: ItemIDRange: Build: 2000000000 ~ 2100000000 start:2000000000
+May 24 13:46:07.694270 ::  Init Success Start 2000000000 End 2100000000 Now 2000000000
+
+May 24 13:46:07.694287 :: Chargement du MOB_PROTO
